@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BFA5</color>
+    <color name="colorPrimaryDark">#0DD9A3</color>
+    <color name="colorAccent">#00BFA5</color>
+
+    <!-- other imp color-->
+    <color name="dark_grey">#252525</color>
+    <color name="dark_grey_trans">#A6252525</color>
+    <color name="medium_grey">#5B5B5B</color>
+    <color name="light_grey">#BCBCBC</color>
+    <color name="button_grey">#444444</color>
+    <color name="dark_red">#D85656</color>
+    <color name="light_red">#FFC5C5</color>
+    <color name="edit_text_dotted_color">#21FFC5</color>
+    <color name="edit_text_color">#E8FFFC</color>
+    <color name="edit_text_search_color">#EFF5F5</color>
+    <color name="navigation_text_color">#FFFCFC</color>
+    <color name="home_background">#EFF5F5</color>
+    <color name="home_title">#444444</color>
+    <color name="offer_end_bg">#EFF5F5</color>
+    <color name="wish_list_bg_color">#F7F7F7</color>
+    <color name="profile_viewed">#55ACEE</color>
+    <color name="profile_my_order">#FFBF4E</color>
+    <!--Extra colors-->
+    <color name="colorTextRegular">#46050F</color>
+    <color name="colorTextGreen">#163C1C</color>
+    <color name="colorTextRed">#46050F</color>
+    <color name="textDim">#919191</color>
+
+    <color name="white">#ffffff</color>
+    <color name="NAV_white">#cfd8dc</color>
+    <color name="black">#000000</color>
+    <color name="fifty_percent_black">#80000000</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="light_shadow">#F9F9F9</color>
+    <color name="transparent">#00000000</color>
+    <color name="negativeRed">#FF333E</color>
+    <color name="inputFormBackground">#F4F4F4</color>
+    <color name="darkBackground">#494A53</color>
+    <color name="disabledGray">#BCBCBC</color>
+    <color name="buttonBorder">#D9D9D9</color>
+    <color name="buttonRed">#FF333F</color>
+    <color name="dottedLine">#C8C9CB</color>
+    <color name="navigationDrawerHeader">#5798CE</color>
+
+    <color name="mainBackground">#E2F1FC</color>
+    <color name="colorYellowGradientStart">#FFBA03</color>
+    <color name="colorYellowGradientEnd">#FFD800</color>
+    <color name="colorRedGradientStart">#DB1663</color>
+    <color name="colorRedGradientEnd">#E16771</color>
+    <color name="disabled">#E4E8F3</color>
+    <color name="colorGreenGradientStart">#88E3D5</color>
+    <color name="colorGreenGradientEnd">#C3E2A7</color>
+
+</resources>

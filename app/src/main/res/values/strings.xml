@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MovieGallery</string>
+    <string name="file_provider_authority" translatable="false">com.itechsoftsolutions.barbersalon.fileprovider</string>
+    <string name="intent_type_image" translatable="false">image/*</string>
+    <string name="intent_extra_return_data" translatable="false">return-data</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="loading">Loading…</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+
+    <!--Braintree-->
+    <string name="tokenization_key" translatable="false">sandbox_x68cfm6c_y3yksnpgkmg5vw9x</string>
+
+    <!--API-->
+    <string name="api_base_url" translatable="false">http://ebuy-dev.dev02.squaredbyte.com/api/</string>
+    <string name="base_url" translatable="false">http://ebuy-dev.dev02.squaredbyte.com/</string>
+
+    <!--  <string name="api_base_url" translatable="false">https://asha-74az.localhost.run/api/</string>
+      <string name="base_url" translatable="false">https://asha-74az.localhost.run/</string>-->
+    <string name="authorization_key" translatable="false">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZWJ1eS1hbmRyb2lkLWFwcHMiLCJpYXQiOjE1NzIzNzI3Nzh9.X1qxpv6WDUP-7Ootx7cISwCUeYtulHhqhxvDjpAzCSg</string>
+
+    <!--Error-->
+    <string name="error_could_not_create_bitmap">Could not create bitmap from the view</string>
+    <string name="error_dao_is_null">Dao is null</string>
+    <string name="error_adapter_size_is_null">Adapter size is null</string>
+    <string name="error_image_picking_intent_is_null">Image picking intent is null</string>
+    <string name="error_fragment_context_is_null">Fragment context is null</string>
+    <string name="error_selected_image_uri_is_null">Selected image uri is null</string>
+    <string name="error_could_not_crop_image">Could not crop image</string>
+    <string name="error_context_is_null">Context is null</string>
+    <string name="error_image_uri_is_null">Image Uri is null</string>
+    <string name="error_internet_connection">Please check your internet connection</string>
+    <string name="error_unauthenticated">Unauthenticated.</string>
+
+    <!--Warning-->
+    <string name="warning_permissions_are_required">Permissions are required</string>
+    <string name="save_our_soul">SAVE OUR SOUL</string>
+</resources>
